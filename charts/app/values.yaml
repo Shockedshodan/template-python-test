@@ -1,8 +1,8 @@
 replicaCount: 1
 
 image:
-  repository: ""
-  tag: ""
+  repository: "shockedshodan/template-test"
+  tag: "0.1.0-dev.0.fix-github-actio.bb5dc22d"
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []

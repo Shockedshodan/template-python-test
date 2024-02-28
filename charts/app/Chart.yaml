@@ -2,5 +2,5 @@ apiVersion: v2
 name: app
 description: Web service template in Python for reuse.
 type: application
-version: ""
-appVersion: ""
+version: "0.1.0-dev.0.fix-github-actio.bb5dc22d"
+appVersion: "0.1.0-dev.0.fix-github-actio.bb5dc22d"

@@ -11,4 +11,15 @@ entries:
     urls:
     - https://Shockedshodan.github.io/template-python-test/charts-repo/app-0.1.0-dev.0.main.1f54c310.tgz
     version: 0.1.0-dev.0.main.1f54c310
-generated: "2024-02-28T22:17:21.601385078Z"
+  secondapp:
+  - apiVersion: v2
+    appVersion: 0.1.0-dev.0.main.aca0e4da
+    created: "2024-03-14T15:14:40.54475022Z"
+    description: Web service template in Python for reuse.
+    digest: 120126f2240f2de978040499cf5488908dc0e0de5cef029f81f5e1be746025ca
+    name: secondapp
+    type: application
+    urls:
+    - https://Shockedshodan.github.io/template-python-test/charts-repo/secondapp-0.1.0-dev.0.main.aca0e4da.tgz
+    version: 0.1.0-dev.0.main.aca0e4da
+generated: "2024-03-14T15:14:40.544124614Z"

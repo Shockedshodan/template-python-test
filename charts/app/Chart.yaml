@@ -1,5 +1,5 @@
 apiVersion: v2
-name: app
+name: secondapp
 description: Web service template in Python for reuse.
 type: application
 version: ""
